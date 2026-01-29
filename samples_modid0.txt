@@ -1,0 +1,8 @@
+**********************************************************************************************************************
+module id 0 on midi channel id 0
+loading samples in D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\Harmonic Guitar Samples
+**********************************************************************************************************************
+
+(stage 0) global_suppliedmidinotes for module index 0
+
+

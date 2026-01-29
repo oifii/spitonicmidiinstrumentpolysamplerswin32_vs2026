@@ -1,0 +1,65 @@
+global_horizontalforcefit is 0.750000
+global_verticalforcefit is 0.750000
+
+
+detecting monitors id 1 (left 0, right 3840, top 0, bottom 2160)
+detecting monitors id 1 (hmonitor: dec 65612, hex 0x0001004C)
+detecting monitors id 2 (left 823, right 2743, top 2160, bottom 3360)
+detecting monitors id 2 (hmonitor: dec 131073, hex 0x00020001)
+detecting monitors id 3 (left -3840, right 0, top 0, bottom 2160)
+detecting monitors id 3 (hmonitor: dec 65614, hex 0x0001004E)
+combined global rectangle from all monitors (left -3840, right 3840, top 0, bottom 3360)
+
+monitor specified by 2:2
+idmonitor is 2, idsubmonitor is 2, number of submonitors is 16
+output rect is now, left 823 right 1303 top 2460 bottom 2760
+
+before horizontal justification
+global_x, global_y, mySIZE.cx, mySIZE.cy are 823 2460 7546 1920
+global_fontheight is 1920
+
+after horizontal justification
+global_x, global_y, mySIZE.cx, mySIZE.cy are -2710 2460 7546 1920
+global_fontheight is 1920
+
+before vertical justification
+global_x, global_y, mySIZE.cx, mySIZE.cy are -2710 2460 7546 1920
+global_fontheight is 1920
+
+after vertical justification
+global_x, global_y, mySIZE.cx, mySIZE.cy are -2710 1650 7546 1920
+global_fontheight is 1920
+
+before horizontal force fit
+before vertical force fit
+global_x, global_y, mySIZE.cx, mySIZE.cy are -2710 1650 7546 1920
+global_fontheight is 1920
+
+before horizontal justification
+global_x, global_y, mySIZE.cx, mySIZE.cy are 883 2497 344 91
+global_fontheight is 91
+
+after horizontal justification
+global_x, global_y, mySIZE.cx, mySIZE.cy are 891 2497 344 91
+global_fontheight is 91
+
+before vertical justification
+global_x, global_y, mySIZE.cx, mySIZE.cy are 891 2497 344 91
+global_fontheight is 91
+
+after vertical justification
+global_x, global_y, mySIZE.cx, mySIZE.cy are 891 2565 344 91
+global_fontheight is 91
+
+after horizontal force fit
+after vertical force fit
+global_x, global_y, mySIZE.cx, mySIZE.cy are 891 2565 344 91
+global_fontheight is 91
+
+displaying string loading 1 at:
+
+global_x, global_y, mySIZE.cx, mySIZE.cy are 891 2565 344 91
+
+
+SetLayeredWindowAttributes() with global_alpha 120
+SetTimer() ID_TIMER_ONCEKILL with global_endtime_sec 5

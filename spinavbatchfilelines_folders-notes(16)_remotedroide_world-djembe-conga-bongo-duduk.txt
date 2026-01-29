@@ -1,0 +1,16 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Djembe Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Conga Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bongo Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\African Shakers Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tuned Gongs Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_4
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb2_ES_ff
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\GTr1_ES_f1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr_ff
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\KTr-4_ES_ppp
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb1_ES_f
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\22 Drums\Tamb1-L_trm
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani\Tmp_ME_RS_trem_pp

@@ -1,0 +1,8 @@
+**********************************************************************************************************************
+module id 1 on midi channel id 1
+loading samples in D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Alto Saxophone Samples
+**********************************************************************************************************************
+
+(stage 0) global_suppliedmidinotes for module index 1
+
+

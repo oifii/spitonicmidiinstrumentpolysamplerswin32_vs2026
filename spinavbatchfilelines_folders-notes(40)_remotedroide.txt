@@ -1,0 +1,40 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\Harmonic Guitar Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Alto Saxophone Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Baritone Saxophone Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\05 Harp
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\NDB - Voix Humaine 8' (rls) Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\NDB GPR-Fonds+Quint (rls) Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\NDB Pos-Scharff (Rls) Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Irish Flute Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bansuri Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\High Whistle Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kaval Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Low Whistle Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Oud Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Shehnai Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Turkish Ney Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Zurna Samples

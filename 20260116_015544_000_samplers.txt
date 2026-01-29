@@ -1,0 +1,3 @@
+will load 3 sampler module(s)
+
+attempting to open spivoicepath D:\spicode\audio_spi\spitonicmidiinstrumentpolysamplerswin32_vs2026\x64\Release\rosie_loading-3-modules-please-wait.mp3

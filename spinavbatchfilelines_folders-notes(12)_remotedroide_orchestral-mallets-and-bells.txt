@@ -1,0 +1,12 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_f_L
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_mf_L
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Xyl_HO_p_L
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_f
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_mf
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_p
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\CE_ES_pp
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Church_Bells
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_f
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_mf
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Gsp_ME_L_p
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells\Marimba Samples

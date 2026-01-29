@@ -1,0 +1,54 @@
+id=0, hostapi=MME, devicename=Microsoft Sound Mapper - Input
+id=1, hostapi=MME, devicename=CABLE Output (VB-Audio Virtual 
+id=2, hostapi=MME, devicename=Microphone Array (Realtek(R) Au
+id=3, hostapi=MME, devicename=Line 1/2 (M-Audio M-Track Solo 
+id=4, hostapi=MME, devicename=Microsoft Sound Mapper - Output
+id=5, hostapi=MME, devicename=Speakers (M-Audio M-Track Solo 
+id=6, hostapi=MME, devicename=55S425CA (HD Audio Driver for D
+id=7, hostapi=MME, devicename=55S425CA (NVIDIA High Definitio
+id=8, hostapi=MME, devicename=CABLE In 16ch (VB-Audio Virtual
+id=9, hostapi=MME, devicename=CABLE Input (VB-Audio Virtual C
+id=10, hostapi=MME, devicename=Speakers (Realtek(R) Audio)
+id=11, hostapi=Windows DirectSound, devicename=Primary Sound Capture Driver
+id=12, hostapi=Windows DirectSound, devicename=CABLE Output (VB-Audio Virtual Cable)
+id=13, hostapi=Windows DirectSound, devicename=Microphone Array (Realtek(R) Audio)
+id=14, hostapi=Windows DirectSound, devicename=Line 1/2 (M-Audio M-Track Solo and Duo)
+id=15, hostapi=Windows DirectSound, devicename=Primary Sound Driver
+id=16, hostapi=Windows DirectSound, devicename=Speakers (M-Audio M-Track Solo and Duo)
+id=17, hostapi=Windows DirectSound, devicename=55S425CA (HD Audio Driver for Display Audio)
+id=18, hostapi=Windows DirectSound, devicename=55S425CA (NVIDIA High Definition Audio)
+id=19, hostapi=Windows DirectSound, devicename=CABLE In 16ch (VB-Audio Virtual Cable)
+id=20, hostapi=Windows DirectSound, devicename=CABLE Input (VB-Audio Virtual Cable)
+id=21, hostapi=Windows DirectSound, devicename=Speakers (Realtek(R) Audio)
+id=22, hostapi=ASIO, devicename=M-Audio M-Track Solo and Duo...
+id=23, hostapi=Windows WASAPI, devicename=55S425CA (HD Audio Driver for Display Audio)
+id=24, hostapi=Windows WASAPI, devicename=55S425CA (NVIDIA High Definition Audio)
+id=25, hostapi=Windows WASAPI, devicename=Speakers (M-Audio M-Track Solo and Duo)
+id=26, hostapi=Windows WASAPI, devicename=CABLE In 16ch (VB-Audio Virtual Cable)
+id=27, hostapi=Windows WASAPI, devicename=CABLE Input (VB-Audio Virtual Cable)
+id=28, hostapi=Windows WASAPI, devicename=Speakers (Realtek(R) Audio)
+id=29, hostapi=Windows WASAPI, devicename=Microphone Array (Realtek(R) Audio)
+id=30, hostapi=Windows WASAPI, devicename=CABLE Output (VB-Audio Virtual Cable)
+id=31, hostapi=Windows WASAPI, devicename=Line 1/2 (M-Audio M-Track Solo and Duo)
+id=32, hostapi=Windows WDM-KS, devicename=Speakers 1 (Realtek HD Audio output with SST)
+id=33, hostapi=Windows WDM-KS, devicename=Speakers 2 (Realtek HD Audio output with SST)
+id=34, hostapi=Windows WDM-KS, devicename=PC Speaker (Realtek HD Audio output with SST)
+id=35, hostapi=Windows WDM-KS, devicename=Microphone Array (Realtek HD Audio Mic Array input)
+id=36, hostapi=Windows WDM-KS, devicename=Microphone (Realtek HD Audio Mic input)
+id=37, hostapi=Windows WDM-KS, devicename=Stereo Mix (Realtek HD Audio Stereo input)
+id=38, hostapi=Windows WDM-KS, devicename=Headphones 1 (Realtek HD Audio 2nd output with SST)
+id=39, hostapi=Windows WDM-KS, devicename=Headphones 2 (Realtek HD Audio 2nd output with SST)
+id=40, hostapi=Windows WDM-KS, devicename=PC Speaker (Realtek HD Audio 2nd output with SST)
+id=41, hostapi=Windows WDM-KS, devicename=Line 1/2 (M-Track Solo and Duo In 1-2)
+id=42, hostapi=Windows WDM-KS, devicename=Line 1/2 (M-Track Solo and Du Out 1-2)
+id=43, hostapi=Windows WDM-KS, devicename=Output (NVIDIA High Definition Audio)
+id=44, hostapi=Windows WDM-KS, devicename=Headphones ()
+id=45, hostapi=Windows WDM-KS, devicename=55S425CA (ACX HD Audio Speaker)
+id=46, hostapi=Windows WDM-KS, devicename=CABLE Output (VB-Audio Point)
+id=47, hostapi=Windows WDM-KS, devicename=Output (VB-Audio Point)
+id=48, hostapi=Windows WDM-KS, devicename=Input (VB-Audio Point)
+
+
+hostapi has been specified:
+global_audiooutputhostapi=MME, global_audiooutputdevicename=Speakers (USB AUDIO  CODEC)
+success: matching hostapi found, MME will be retained.

@@ -1,0 +1,8 @@
+file spitonicmidiinstrumentpolysamplerswin32_2020sept10.cpp
+is a 2020sept10 backup snapshot of 
+file spitonicmidiinstrumentpolysamplerswin32.cpp
+
+this was just before introducing multithreading into the
+initial sample modules loading/interpolating process
+
+spi

@@ -1,0 +1,1 @@
+taskkill /im spitonicmidiinstrumentpolysamplerswin32.exe
